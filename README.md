@@ -1,7 +1,7 @@
-# Hiro preview
+# Hiro website
 
-Static website output for the Vrinda feedback preview.
+Published website: https://ribhu-s-projects.github.io/hiro/
 
-https://ribhu-s-projects.github.io/hiro-vrinda-feedback/
+This repository contains the generated public website. The application source stays in a separate private repository. Every push to its main branch builds and updates this repository automatically, then the Deploy Hiro Pages action publishes the result.
 
-The application source and planning files are kept separately.
+The website's deployment.json records the source commit and build time. Do not edit the generated website files here; they are replaced by the next source deployment. The publisher preserves this README and .github/.
