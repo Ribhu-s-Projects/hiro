@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#eef2ff"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#cffafe"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="32" y="32" width="1136" height="566" rx="30" fill="#fff" fill-opacity=".7" stroke="#d1d5db"/>
+  <g transform="translate(78 70) scale(1.8)">
+    <path d="M8 1h24a7 7 0 0 1 7 7v15a7 7 0 0 1-7 7H16l-7 5.5V30H8a7 7 0 0 1-7-7V8a7 7 0 0 1 7-7Z" fill="#0b0b0b"/>
+    <path d="M11 7.5h3.2v5.1c.9-1.1 2.1-1.7 3.6-1.7 2.6 0 4.2 1.7 4.2 4.6V23h-3.2v-6.8c0-1.5-.8-2.3-2.1-2.3-1.5 0-2.5 1-2.5 2.7V23H11Z" fill="#fff"/>
+    <rect x="24.6" y="11.2" width="3.2" height="11.8" rx=".4" fill="#fff"/>
+    <circle cx="26.2" cy="6.6" r="2.6" fill="#25d366"/>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <text x="170" y="116" font-size="44" font-weight="700" fill="#111827">Hiro</text>
+    <text x="80" y="228" font-size="28" font-weight="600" fill="#047857">Fresh tech job alerts on WhatsApp</text>
+    <text x="76" y="328" font-size="84" font-weight="700" letter-spacing="-3" fill="#111827">Be early. Stand out.</text>
+    <text x="76" y="422" font-size="84" font-weight="700" letter-spacing="-3" fill="#111827">Get hired.</text>
+    <rect x="80" y="487" width="320" height="54" rx="27" fill="#111827"/>
+    <text x="108" y="522" font-size="24" font-weight="600" fill="#fff">First 10 role alerts free</text>
+  </g>
+</svg>

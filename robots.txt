@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ribhu-s-projects.github.io/hiro/sitemap.xml
